@@ -2,6 +2,9 @@
 
 This project presents an interactive Power BI dashboard for analyzing ecommerce sales data.
 
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## Features
 - Sales performance analysis
 - Product category insights
